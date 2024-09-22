@@ -1,1 +1,1 @@
-# DSA-Labs
+# DSA-Lab 1
